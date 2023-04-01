@@ -1,0 +1,31 @@
+/* @import "./classes/dev.css"; */
+
+@import "./classes/reset.css";
+@import "./classes/root-big.css";
+@import "./classes/root-small.css";
+
+@import "./classes/width.css"; 
+@import "./classes/height.css";
+@import "./classes/filter.css";
+@import "./classes/backdrop-filter.css";
+@import "./classes/outline.css";
+@import "./classes/border.css";
+
+
+@import "./classes/display.css";
+@import "./classes/position.css";
+@import "./classes/z-index.css";
+@import "./classes/object-fit.css";
+@import "./classes/font-size.css";
+@import "./classes/solid-color.css";
+@import "./classes/font-family.css";
+@import "./classes/font-weight.css";
+@import "./classes/align-content.css";
+@import "./classes/justify-content.css";
+@import "./classes/place-content.css";
+
+@import "./classes/color.css";
+@import "./classes/padding.css";
+@import "./classes/gap.css";
+@import "./classes/cols-fr.css";
+@import "./classes/cols-max.css";

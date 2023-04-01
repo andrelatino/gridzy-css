@@ -1,0 +1,75 @@
+/* All screen sizes */
+.all-position-static { position: static; }
+.all-position-relative { position: relative; }
+.all-position-absolute { position: absolute; }
+.all-position-fixed { position: fixed; }
+.all-position-sticky { position: sticky; }
+.all-position-inherit { position: inherit; }
+.all-position-initial { position: initial; }
+.all-position-unset { position: unset; }
+.all-position-revert { position: revert; }
+
+/* Extra large screens (≥1200px) */
+@media screen and (min-width:1281px){
+.xl-position-static { position: static; }
+.xl-position-relative { position: relative; }
+.xl-position-absolute { position: absolute; }
+.xl-position-fixed { position: fixed; }
+.xl-position-sticky { position: sticky; }
+.xl-position-inherit { position: inherit; }
+.xl-position-initial { position: initial; }
+.xl-position-unset { position: unset; }
+.xl-position-revert { position: revert; }
+}
+
+/* Large screens (≥992px) */
+@media screen and (min-width:1025px) and (max-width:1280px){
+.l-position-static { position: static; }
+.l-position-relative { position: relative; }
+.l-position-absolute { position: absolute; }
+.l-position-fixed { position: fixed; }
+.l-position-sticky { position: sticky; }
+.l-position-inherit { position: inherit; }
+.l-position-initial { position: initial; }
+.l-position-unset { position: unset; }
+.l-position-revert { position: revert; }
+}
+
+/* Medium screens (≥768px) */
+@media screen and (min-width:769px) and (max-width:1024px){
+.m-position-static { position: static; }
+.m-position-relative { position: relative; }
+.m-position-absolute { position: absolute; }
+.m-position-fixed { position: fixed; }
+.m-position-sticky { position: sticky; }
+.m-position-inherit { position: inherit; }
+.m-position-initial { position: initial; }
+.m-position-unset { position: unset; }
+.m-position-revert { position: revert; }
+}
+
+/* Small screens (≥576px) */
+@media screen and (min-width:641px) and (max-width:768px){
+.s-position-static { position: static; }
+.s-position-relative { position: relative; }
+.s-position-absolute { position: absolute; }
+.s-position-fixed { position: fixed; }
+.s-position-sticky { position: sticky; }
+.s-position-inherit { position: inherit; }
+.s-position-initial { position: initial; }
+.s-position-unset { position: unset; }
+.s-position-revert { position: revert; }
+}
+
+/* Extra small screens (<576px) */
+@media screen and (max-width:640px){
+.xs-position-static { position: static; }
+.xs-position-relative { position: relative; }
+.xs-position-absolute { position: absolute; }
+.xs-position-fixed { position: fixed; }
+.xs-position-sticky { position: sticky; }
+.xs-position-inherit { position: inherit; }
+.xs-position-initial { position: initial; }
+.xs-position-unset { position: unset; }
+.xs-position-revert { position: revert; }
+}

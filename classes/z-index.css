@@ -1,0 +1,73 @@
+/* All screen sizes */
+.all-z-index-0 { z-index: 0; }
+.all-z-index-1 { z-index: 1; }
+.all-z-index-2 { z-index: 2; }
+.all-z-index-3 { z-index: 3; }
+.all-z-index-4 { z-index: 4; }
+.all-z-index-5 { z-index: 5; }
+.all-z-index-6 { z-index: 6; }
+.all-z-index-7 { z-index: 7; }
+.all-z-index-8 { z-index: 8; }
+.all-z-index-9 { z-index: 9; }
+.all-z-index-10 { z-index: 10; }
+
+/* Extra large screens (≥1200px) */
+@media screen and (min-width: 1281px) {
+  .xl-z-index-0 { z-index: 0; }
+  .xl-z-index-1 { z-index: 1; }
+  .xl-z-index-2 { z-index: 2; }
+  .xl-z-index-3 { z-index: 3; }
+  .xl-z-index-4 { z-index: 4; }
+  .xl-z-index-5 { z-index: 5; }
+  .xl-z-index-6 { z-index: 6; }
+  .xl-z-index-7 { z-index: 7; }
+  .xl-z-index-8 { z-index: 8; }
+  .xl-z-index-9 { z-index: 9; }
+  .xl-z-index-10 { z-index: 10; }
+}
+
+/* Large screens (≥992px) */
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+  .l-z-index-0 { z-index: 0; }
+  .l-z-index-1 { z-index: 1; }
+  .l-z-index-2 { z-index: 2; }
+  .l-z-index-3 { z-index: 3; }
+  .l-z-index-4 { z-index: 4; }
+  .l-z-index-5 { z-index: 5; }
+  .l-z-index-6 { z-index: 6; }
+  .l-z-index-7 { z-index: 7; }
+  .l-z-index-8 { z-index: 8; }
+  .l-z-index-9 { z-index: 9; }
+  .l-z-index-10 { z-index: 10; }
+}
+
+/* Medium screens (≥768px) */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  .m-z-index-0 { z-index: 0; }
+  .m-z-index-1 { z-index: 1; }
+  .m-z-index-2 { z-index: 2; }
+  .m-z-index-3 { z-index: 3; }
+  .m-z-index-4 { z-index: 4; }
+  .m-z-index-5 { z-index: 5; }
+  .m-z-index-6 { z-index: 6; }
+  .m-z-index-7 { z-index: 7; }
+  .m-z-index-8 { z-index: 8; }
+  .m-z-index-9 { z-index: 9; }
+  .m-z-index-10 { z-index: 10; }
+}
+
+/* Extra small screens (<576px) */
+@media screen and (max-width:640px){
+    .xs-z-index-0 { z-index: 0; }
+    .xs-z-index-1 { z-index: 1; }
+    .xs-z-index-2 { z-index: 2; }
+    .xs-z-index-3 { z-index: 3; }
+    .xs-z-index-4 { z-index: 4; }
+    .xs-z-index-5 { z-index: 5; }
+    .xs-z-index-6 { z-index: 6; }
+    .xs-z-index-7 { z-index: 7; }
+    .xs-z-index-8 { z-index: 8; }
+    .xs-z-index-9 { z-index: 9; }
+    .xs-z-index-10 { z-index: 10; }
+  }
+  

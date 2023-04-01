@@ -1,0 +1,70 @@
+/** all */
+.all-object-fit-fill { object-fit: fill; }
+.all-object-fit-contain { object-fit: contain; }
+.all-object-fit-cover { object-fit: cover; }
+.all-object-fit-scale-down { object-fit: scale-down; }
+.all-object-fit-none { object-fit: none; }
+.all-object-fit-scale-down { object-fit: scale-down; }
+.all-object-fit-revert { object-fit: revert; }
+.all-object-fit-initial { object-fit: initial; }
+.all-object-fit-unset { object-fit: unset; }
+/** xl */
+@media screen and (min-width:1281px){  
+.xl-object-fit-fill { object-fit: fill; }
+.xl-object-fit-contain { object-fit: contain; }
+.xl-object-fit-cover { object-fit: cover; }
+.xl-object-fit-scale-down { object-fit: scale-down; }
+.xl-object-fit-none { object-fit: none; }
+.xl-object-fit-scale-down { object-fit: scale-down; }
+.xl-object-fit-revert { object-fit: revert; }
+.xl-object-fit-initial { object-fit: initial; }
+.xl-object-fit-unset { object-fit: unset; }
+}
+/** l */
+@media screen and (min-width:1025px) and (max-width:1280px){ 
+.l-object-fit-fill { object-fit: fill; }
+.l-object-fit-contain { object-fit: contain; }
+.l-object-fit-cover { object-fit: cover; }
+.l-object-fit-scale-down { object-fit: scale-down; }
+.l-object-fit-none { object-fit: none; }
+.l-object-fit-scale-down { object-fit: scale-down; }
+.l-object-fit-revert { object-fit: revert; }
+.l-object-fit-initial { object-fit: initial; }
+.l-object-fit-unset { object-fit: unset; }
+}
+/** m */
+@media screen and (min-width:769px) and (max-width:1024px){ 
+.m-object-fit-fill { object-fit: fill; }
+.m-object-fit-contain { object-fit: contain; }
+.m-object-fit-cover { object-fit: cover; }
+.m-object-fit-scale-down { object-fit: scale-down; }
+.m-object-fit-none { object-fit: none; }
+.m-object-fit-scale-down { object-fit: scale-down; }
+.m-object-fit-revert { object-fit: revert; }
+.m-object-fit-initial { object-fit: initial; }
+.m-object-fit-unset { object-fit: unset; }
+}
+/** s */
+@media screen and (min-width:641px) and (max-width:768px){
+.s-object-fit-fill { object-fit: fill; }
+.s-object-fit-contain { object-fit: contain; }
+.s-object-fit-cover { object-fit: cover; }
+.s-object-fit-scale-down { object-fit: scale-down; }
+.s-object-fit-none { object-fit: none; }
+.s-object-fit-scale-down { object-fit: scale-down; }
+.s-object-fit-revert { object-fit: revert; }
+.s-object-fit-initial { object-fit: initial; }
+.s-object-fit-unset { object-fit: unset; }
+}
+/** xs */
+@media screen and (max-width:640px){  
+.xs-object-fit-fill { object-fit: fill; }
+.xs-object-fit-contain { object-fit: contain; }
+.xs-object-fit-cover { object-fit: cover; }
+.xs-object-fit-scale-down { object-fit: scale-down; }
+.xs-object-fit-none { object-fit: none; }
+.xs-object-fit-scale-down { object-fit: scale-down; }
+.xs-object-fit-revert { object-fit: revert; }
+.xs-object-fit-initial { object-fit: initial; }
+.xs-object-fit-unset { object-fit: unset; }
+}

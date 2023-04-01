@@ -1,0 +1,46 @@
+:root {
+    --background-color:initial;
+    --background-opacity:100%;
+}
+/** all */
+
+.all-solid-color-white  {--background-color:255 255 255;}
+.all-solid-color-black  {--background-color:0 0 0;}
+
+.all-solid-opacity-0 {--background-opacity:0%;}
+.all-solid-opacity-1 {--background-opacity:10%;}
+.all-solid-opacity-2 {--background-opacity:20%;}
+.all-solid-opacity-3 {--background-opacity:30%;}
+.all-solid-opacity-4 {--background-opacity:40%;}
+.all-solid-opacity-5 {--background-opacity:50%;}
+.all-solid-opacity-6 {--background-opacity:60%;}
+.all-solid-opacity-7 {--background-opacity:70%;}
+.all-solid-opacity-8 {--background-opacity:80%;}
+.all-solid-opacity-9 {--background-opacity:90%;}
+.all-solid-opacity-10 {--background-opacity:100%;}
+
+.solid-color {
+    background-color: rgb( var(--background-color) / var(--background-opacity) );
+ }
+ /** xs */
+@media screen and (max-width:640px){  
+
+}
+/** s */
+@media screen and (min-width:641px) and (max-width:768px){
+
+}
+/** m */
+@media screen and (min-width:769px) and (max-width:1024px){ 
+
+}
+/** l */
+@media screen and (min-width:1025px) and (max-width:1280px){ 
+
+}
+/** xl */
+@media screen and (min-width:1281px){  
+
+}
+
+
