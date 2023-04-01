@@ -1,67 +1,67 @@
 
 /** all */
-.all-height-0{height:var(--big-0);}
-.all-height-1{height:var(--big-1);}
-.all-height-2{height:var(--big-2);}
-.all-height-3{height:var(--big-3);}
-.all-height-4{height:var(--big-4);}
-.all-height-5{height:var(--big-5);}
-.all-height-6{height:var(--big-6);}
-.all-height-7{height:var(--big-7);}
-.all-height-8{height:var(--big-8);}
-.all-height-9{height:var(--big-9);}
-.all-height-10{height:var(--big-10);}
-.all-height-11{height:var(--big-11);}
-.all-height-12{height:var(--big-12);}
-.all-height-13{height:var(--big-13);}
-.all-height-14{height:var(--big-14);}
-.all-height-15{height:var(--big-15);}
-.all-height-16{height:var(--big-16);}
-.all-height-17{height:var(--big-17);}
-.all-height-18{height:var(--big-18);}
-.all-height-19{height:var(--big-19);}
-.all-height-20{height:var(--big-20);}
-.all-height-21{height:var(--big-21);}
-.all-height-22{height:var(--big-22);}
-.all-height-23{height:var(--big-23);}
-.all-height-24{height:var(--big-24);}
-.all-height-25{height:var(--big-25);}
-.all-height-26{height:var(--big-26);}
-.all-height-27{height:var(--big-27);}
-.all-height-28{height:var(--big-28);}
-.all-height-29{height:var(--big-29);}
-.all-height-30{height:var(--big-30);}
-.all-height-31{height:var(--big-31);}
-.all-height-32{height:var(--big-32);}
-.all-height-33{height:var(--big-33);}
-.all-height-34{height:var(--big-34);}
-.all-height-35{height:var(--big-35);}
-.all-height-36{height:var(--big-36);}
-.all-height-37{height:var(--big-37);}
-.all-height-38{height:var(--big-38);}
-.all-height-39{height:var(--big-39);}
-.all-height-40{height:var(--big-40);}
-.all-height-41{height:var(--big-41);}
-.all-height-42{height:var(--big-42);}
-.all-height-43{height:var(--big-43);}
-.all-height-44{height:var(--big-44);}
-.all-height-45{height:var(--big-45);}
-.all-height-46{height:var(--big-46);}
-.all-height-47{height:var(--big-47);}
-.all-height-48{height:var(--big-48);}
-.all-height-49{height:var(--big-49);}
-.all-height-50{height:var(--big-50);}
-.all-height-0vh {height:0vh;}
-.all-height-25vh {height:25vh;} 
-.all-height-33vh {height:33.33vh;} 
-.all-height-50vh {height:50vh;}
-.all-height-75vh {height:75vh;}
-.all-height-100vh {height:100vh;}
-.all-height-125vh {height:125vh;} 
-.all-height-133vh {height:133.33vh;} 
-.all-height-150vh {height:150vh;}
-.all-height-175vh {height:175vh;}
-.all-height-200vh {height:200vh;}
+.height-0{height:var(--big-0);}
+.height-1{height:var(--big-1);}
+.height-2{height:var(--big-2);}
+.height-3{height:var(--big-3);}
+.height-4{height:var(--big-4);}
+.height-5{height:var(--big-5);}
+.height-6{height:var(--big-6);}
+.height-7{height:var(--big-7);}
+.height-8{height:var(--big-8);}
+.height-9{height:var(--big-9);}
+.height-10{height:var(--big-10);}
+.height-11{height:var(--big-11);}
+.height-12{height:var(--big-12);}
+.height-13{height:var(--big-13);}
+.height-14{height:var(--big-14);}
+.height-15{height:var(--big-15);}
+.height-16{height:var(--big-16);}
+.height-17{height:var(--big-17);}
+.height-18{height:var(--big-18);}
+.height-19{height:var(--big-19);}
+.height-20{height:var(--big-20);}
+.height-21{height:var(--big-21);}
+.height-22{height:var(--big-22);}
+.height-23{height:var(--big-23);}
+.height-24{height:var(--big-24);}
+.height-25{height:var(--big-25);}
+.height-26{height:var(--big-26);}
+.height-27{height:var(--big-27);}
+.height-28{height:var(--big-28);}
+.height-29{height:var(--big-29);}
+.height-30{height:var(--big-30);}
+.height-31{height:var(--big-31);}
+.height-32{height:var(--big-32);}
+.height-33{height:var(--big-33);}
+.height-34{height:var(--big-34);}
+.height-35{height:var(--big-35);}
+.height-36{height:var(--big-36);}
+.height-37{height:var(--big-37);}
+.height-38{height:var(--big-38);}
+.height-39{height:var(--big-39);}
+.height-40{height:var(--big-40);}
+.height-41{height:var(--big-41);}
+.height-42{height:var(--big-42);}
+.height-43{height:var(--big-43);}
+.height-44{height:var(--big-44);}
+.height-45{height:var(--big-45);}
+.height-46{height:var(--big-46);}
+.height-47{height:var(--big-47);}
+.height-48{height:var(--big-48);}
+.height-49{height:var(--big-49);}
+.height-50{height:var(--big-50);}
+.height-0vh {height:0vh;}
+.height-25vh {height:25vh;} 
+.height-33vh {height:33.33vh;} 
+.height-50vh {height:50vh;}
+.height-75vh {height:75vh;}
+.height-100vh {height:100vh;}
+.height-125vh {height:125vh;} 
+.height-133vh {height:133.33vh;} 
+.height-150vh {height:150vh;}
+.height-175vh {height:175vh;}
+.height-200vh {height:200vh;}
 
 /** xs */
 @media screen and (max-width:640px){  

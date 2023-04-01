@@ -1,13 +1,13 @@
 /* All screen sizes */
-.all-position-static { position: static; }
-.all-position-relative { position: relative; }
-.all-position-absolute { position: absolute; }
-.all-position-fixed { position: fixed; }
-.all-position-sticky { position: sticky; }
-.all-position-inherit { position: inherit; }
-.all-position-initial { position: initial; }
-.all-position-unset { position: unset; }
-.all-position-revert { position: revert; }
+.position-static { position: static; }
+.position-relative { position: relative; }
+.position-absolute { position: absolute; }
+.position-fixed { position: fixed; }
+.position-sticky { position: sticky; }
+.position-inherit { position: inherit; }
+.position-initial { position: initial; }
+.position-unset { position: unset; }
+.position-revert { position: revert; }
 
 /* Extra large screens (≥1200px) */
 @media screen and (min-width:1281px){

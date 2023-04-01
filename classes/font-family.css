@@ -1,5 +1,5 @@
 /** all */
-.all-font-family-system{font-family: system-ui;}
+.font-family-system{font-family: system-ui;}
  /** xs */
 @media screen and (max-width:640px){  
 

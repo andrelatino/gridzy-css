@@ -4,20 +4,20 @@
 }
 /** all */
 
-.all-solid-color-white  {--background-color:255 255 255;}
-.all-solid-color-black  {--background-color:0 0 0;}
+.solid-color-white  {--background-color:255 255 255;}
+.solid-color-black  {--background-color:0 0 0;}
 
-.all-solid-opacity-0 {--background-opacity:0%;}
-.all-solid-opacity-1 {--background-opacity:10%;}
-.all-solid-opacity-2 {--background-opacity:20%;}
-.all-solid-opacity-3 {--background-opacity:30%;}
-.all-solid-opacity-4 {--background-opacity:40%;}
-.all-solid-opacity-5 {--background-opacity:50%;}
-.all-solid-opacity-6 {--background-opacity:60%;}
-.all-solid-opacity-7 {--background-opacity:70%;}
-.all-solid-opacity-8 {--background-opacity:80%;}
-.all-solid-opacity-9 {--background-opacity:90%;}
-.all-solid-opacity-10 {--background-opacity:100%;}
+.solid-opacity-0 {--background-opacity:0%;}
+.solid-opacity-1 {--background-opacity:10%;}
+.solid-opacity-2 {--background-opacity:20%;}
+.solid-opacity-3 {--background-opacity:30%;}
+.solid-opacity-4 {--background-opacity:40%;}
+.solid-opacity-5 {--background-opacity:50%;}
+.solid-opacity-6 {--background-opacity:60%;}
+.solid-opacity-7 {--background-opacity:70%;}
+.solid-opacity-8 {--background-opacity:80%;}
+.solid-opacity-9 {--background-opacity:90%;}
+.solid-opacity-10 {--background-opacity:100%;}
 
 .solid-color {
     background-color: rgb( var(--background-color) / var(--background-opacity) );

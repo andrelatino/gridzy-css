@@ -1,15 +1,15 @@
 /* All screen sizes */
-.all-z-index-0 { z-index: 0; }
-.all-z-index-1 { z-index: 1; }
-.all-z-index-2 { z-index: 2; }
-.all-z-index-3 { z-index: 3; }
-.all-z-index-4 { z-index: 4; }
-.all-z-index-5 { z-index: 5; }
-.all-z-index-6 { z-index: 6; }
-.all-z-index-7 { z-index: 7; }
-.all-z-index-8 { z-index: 8; }
-.all-z-index-9 { z-index: 9; }
-.all-z-index-10 { z-index: 10; }
+.z-index-0 { z-index: 0; }
+.z-index-1 { z-index: 1; }
+.z-index-2 { z-index: 2; }
+.z-index-3 { z-index: 3; }
+.z-index-4 { z-index: 4; }
+.z-index-5 { z-index: 5; }
+.z-index-6 { z-index: 6; }
+.z-index-7 { z-index: 7; }
+.z-index-8 { z-index: 8; }
+.z-index-9 { z-index: 9; }
+.z-index-10 { z-index: 10; }
 
 /* Extra large screens (≥1200px) */
 @media screen and (min-width: 1281px) {

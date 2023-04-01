@@ -1,5 +1,5 @@
-.all-color-white{color:white;}
-.all-color-black{color:black;}
+.color-white{color:white;}
+.color-black{color:black;}
  /** xs */
 @media screen and (max-width:640px){  
 

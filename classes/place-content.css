@@ -1,18 +1,18 @@
-.all-place-content-start-start {place-content:start start;}
-.all-place-content-start {place-content:start start;}
-.all-place-content-start-center {place-content:start center;}
-.all-place-content-start-end {place-content:start end;}
-.all-place-content-center-start {place-content:center start;}
-.all-place-content-center-center {place-content:center center;}
-.all-place-content-center {place-content:center center;}
-.all-place-content-center-end {place-content:center end;}
-.all-place-content-end-start {place-content:end start;}
-.all-place-content-end-center {place-content:end center;}
-.all-place-content-end-end {place-content:end end;}
-.all-place-content-end {place-content:end;}
-.all-place-content-space-beetween {place-content:space-between;}
-.all-place-content-space-around {place-content:space-around;}
-.all-place-content-space-evenly {place-content:space-evenly;}
+.place-content-start-start {place-content:start start;}
+.place-content-start {place-content:start start;}
+.place-content-start-center {place-content:start center;}
+.place-content-start-end {place-content:start end;}
+.place-content-center-start {place-content:center start;}
+.place-content-center-center {place-content:center center;}
+.place-content-center {place-content:center center;}
+.place-content-center-end {place-content:center end;}
+.place-content-end-start {place-content:end start;}
+.place-content-end-center {place-content:end center;}
+.place-content-end-end {place-content:end end;}
+.place-content-end {place-content:end;}
+.place-content-space-beetween {place-content:space-between;}
+.place-content-space-around {place-content:space-around;}
+.place-content-space-evenly {place-content:space-evenly;}
 /** xs */
 @media screen and (max-width:640px){  
 .xs-place-content-start-start {place-content:start start;}

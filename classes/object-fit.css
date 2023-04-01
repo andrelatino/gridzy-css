@@ -1,13 +1,13 @@
 /** all */
-.all-object-fit-fill { object-fit: fill; }
-.all-object-fit-contain { object-fit: contain; }
-.all-object-fit-cover { object-fit: cover; }
-.all-object-fit-scale-down { object-fit: scale-down; }
-.all-object-fit-none { object-fit: none; }
-.all-object-fit-scale-down { object-fit: scale-down; }
-.all-object-fit-revert { object-fit: revert; }
-.all-object-fit-initial { object-fit: initial; }
-.all-object-fit-unset { object-fit: unset; }
+.object-fit-fill { object-fit: fill; }
+.object-fit-contain { object-fit: contain; }
+.object-fit-cover { object-fit: cover; }
+.object-fit-scale-down { object-fit: scale-down; }
+.object-fit-none { object-fit: none; }
+.object-fit-scale-down { object-fit: scale-down; }
+.object-fit-revert { object-fit: revert; }
+.object-fit-initial { object-fit: initial; }
+.object-fit-unset { object-fit: unset; }
 /** xl */
 @media screen and (min-width:1281px){  
 .xl-object-fit-fill { object-fit: fill; }

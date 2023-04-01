@@ -1,13 +1,13 @@
 /** all */
-.all-font-weight-100 {font-weight: 100;}
-.all-font-weight-200 {font-weight: 200;}
-.all-font-weight-300 {font-weight: 300;}
-.all-font-weight-400 {font-weight: 400;}
-.all-font-weight-500 {font-weight: 500;}
-.all-font-weight-600 {font-weight: 600;}
-.all-font-weight-700 {font-weight: 700;}
-.all-font-weight-800 {font-weight: 800;}
-.all-font-weight-900 {font-weight: 900;}
+.font-weight-100 {font-weight: 100;}
+.font-weight-200 {font-weight: 200;}
+.font-weight-300 {font-weight: 300;}
+.font-weight-400 {font-weight: 400;}
+.font-weight-500 {font-weight: 500;}
+.font-weight-600 {font-weight: 600;}
+.font-weight-700 {font-weight: 700;}
+.font-weight-800 {font-weight: 800;}
+.font-weight-900 {font-weight: 900;}
  /** xs */
 @media screen and (max-width:640px){  
 .xs-font-weight-100 {font-weight: 100;}
@@ -58,13 +58,13 @@
 }
 /** xl */
 @media screen and (min-width:1281px){  
-.all-font-weight-100 {font-weight: 100;}
-.all-font-weight-200 {font-weight: 200;}
-.all-font-weight-300 {font-weight: 300;}
-.all-font-weight-400 {font-weight: 400;}
-.all-font-weight-500 {font-weight: 500;}
-.all-font-weight-600 {font-weight: 600;}
-.all-font-weight-700 {font-weight: 700;}
-.all-font-weight-800 {font-weight: 800;}
-.all-font-weight-900 {font-weight: 900;}
+.xl-font-weight-100 {font-weight: 100;}
+.xl-font-weight-200 {font-weight: 200;}
+.xl-font-weight-300 {font-weight: 300;}
+.xl-font-weight-400 {font-weight: 400;}
+.xl-font-weight-500 {font-weight: 500;}
+.xl-font-weight-600 {font-weight: 600;}
+.xl-font-weight-700 {font-weight: 700;}
+.xl-font-weight-800 {font-weight: 800;}
+.xl-font-weight-900 {font-weight: 900;}
 }

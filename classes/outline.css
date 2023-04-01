@@ -8,36 +8,36 @@
 }
 /** all */
 
-.all-outline-color-white {--outline-color:255 255 255;}
-.all-outline-color-black {--outline-color:0 0 0;}
+.outline-color-white {--outline-color:255 255 255;}
+.outline-color-black {--outline-color:0 0 0;}
 
-.all-outline-opacity-1 {--outline-opacity:10%;}
-.all-outline-opacity-2 {--outline-opacity:20%;}
-.all-outline-opacity-3 {--outline-opacity:30%;}
-.all-outline-opacity-4 {--outline-opacity:40%;}
-.all-outline-opacity-5 {--outline-opacity:50%;}
+.outline-opacity-1 {--outline-opacity:10%;}
+.outline-opacity-2 {--outline-opacity:20%;}
+.outline-opacity-3 {--outline-opacity:30%;}
+.outline-opacity-4 {--outline-opacity:40%;}
+.outline-opacity-5 {--outline-opacity:50%;}
 
-.all-outline-style-0 {--outline-style:none;}
-.all-outline-style-1 {--outline-style:solid;}
-.all-outline-style-2 {--outline-style:dashed;}
-.all-outline-style-3 {--outline-style:dotted;}
-.all-outline-style-4 {--outline-style:double;}
-.all-outline-style-5 {--outline-style:groove;}
-.all-outline-style-6 {--outline-style:inset;}
-.all-outline-style-7 {--outline-style:outset;}
-.all-outline-style-8 {--outline-style:ridge;}
+.outline-style-0 {--outline-style:none;}
+.outline-style-1 {--outline-style:solid;}
+.outline-style-2 {--outline-style:dashed;}
+.outline-style-3 {--outline-style:dotted;}
+.outline-style-4 {--outline-style:double;}
+.outline-style-5 {--outline-style:groove;}
+.outline-style-6 {--outline-style:inset;}
+.outline-style-7 {--outline-style:outset;}
+.outline-style-8 {--outline-style:ridge;}
 
-.all-outline-width-0 {--outline-width:0px;}
-.all-outline-width-1 {--outline-width:1px;}
-.all-outline-width-2 {--outline-width:3px;}
-.all-outline-width-3 {--outline-width:6px;}
-.all-outline-width-4 {--outline-width:9px;}
-.all-outline-width-5 {--outline-width:12px;}
-.all-outline-width-6 {--outline-width:15px;}
-.all-outline-width-7 {--outline-width:18px;}
-.all-outline-width-8 {--outline-width:21px;}
-.all-outline-width-9 {--outline-width:24px;}
-.all-outline-width-10 {--outline-width:27px;}
+.outline-width-0 {--outline-width:0px;}
+.outline-width-1 {--outline-width:1px;}
+.outline-width-2 {--outline-width:3px;}
+.outline-width-3 {--outline-width:6px;}
+.outline-width-4 {--outline-width:9px;}
+.outline-width-5 {--outline-width:12px;}
+.outline-width-6 {--outline-width:15px;}
+.outline-width-7 {--outline-width:18px;}
+.outline-width-8 {--outline-width:21px;}
+.outline-width-9 {--outline-width:24px;}
+.outline-width-10 {--outline-width:27px;}
 
 .outline  {
 outline-width: var(--outline-width);
