@@ -1,0 +1,75 @@
+.all-line-height-1{line-height:1;}
+.all-line-height-2{line-height:1.1;}
+.all-line-height-3{line-height:1.2;}
+.all-line-height-4{line-height:1.3;}
+.all-line-height-5{line-height:1.4;}
+.all-line-height-6{line-height:1.5;}
+.all-line-height-7{line-height:1.6;}
+.all-line-height-8{line-height:1.7;}
+.all-line-height-9{line-height:1.8;}
+.all-line-height-10{line-height:1.9;}
+/** xs */
+@media screen and (max-width:640px){
+.xs-line-height-1{line-height:1;}
+.xs-line-height-2{line-height:1.1;}
+.xs-line-height-3{line-height:1.2;}
+.xs-line-height-4{line-height:1.3;}
+.xs-line-height-5{line-height:1.4;}
+.xs-line-height-6{line-height:1.5;}
+.xs-line-height-7{line-height:1.6;}
+.xs-line-height-8{line-height:1.7;}
+.xs-line-height-9{line-height:1.8;}
+.xs-line-height-10{line-height:1.9;}
+}
+/** s */
+@media screen and (min-width:641px) and (max-width:768px){
+.s-line-height-1{line-height:1;}
+.s-line-height-2{line-height:1.1;}
+.s-line-height-3{line-height:1.2;}
+.s-line-height-4{line-height:1.3;}
+.s-line-height-5{line-height:1.4;}
+.s-line-height-6{line-height:1.5;}
+.s-line-height-7{line-height:1.6;}
+.s-line-height-8{line-height:1.7;}
+.s-line-height-9{line-height:1.8;}
+.s-line-height-10{line-height:1.9;}
+}
+/** m */
+@media screen and (min-width:769px) and (max-width:1024px){
+.m-line-height-1{line-height:1;}
+.m-line-height-2{line-height:1.1;}
+.m-line-height-3{line-height:1.2;}
+.m-line-height-4{line-height:1.3;}
+.m-line-height-5{line-height:1.4;}
+.m-line-height-6{line-height:1.5;}
+.m-line-height-7{line-height:1.6;}
+.m-line-height-8{line-height:1.7;}
+.m-line-height-9{line-height:1.8;}
+.m-line-height-10{line-height:1.9;}
+}
+/** l */
+@media screen and (min-width:1025px) and (max-width:1280px){
+.l-line-height-1{line-height:1;}
+.l-line-height-2{line-height:1.1;}
+.l-line-height-3{line-height:1.2;}
+.l-line-height-4{line-height:1.3;}
+.l-line-height-5{line-height:1.4;}
+.l-line-height-6{line-height:1.5;}
+.l-line-height-7{line-height:1.6;}
+.l-line-height-8{line-height:1.7;}
+.l-line-height-9{line-height:1.8;}
+.l-line-height-10{line-height:1.9;}
+}
+/** xl */
+@media screen and (min-width:1281px){
+.xl-line-height-1{line-height:1;}
+.xl-line-height-2{line-height:1.1;}
+.xl-line-height-3{line-height:1.2;}
+.xl-line-height-4{line-height:1.3;}
+.xl-line-height-5{line-height:1.4;}
+.xl-line-height-6{line-height:1.5;}
+.xl-line-height-7{line-height:1.6;}
+.xl-line-height-8{line-height:1.7;}
+.xl-line-height-9{line-height:1.8;}
+.xl-line-height-10{line-height:1.9;}
+}
