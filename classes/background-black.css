@@ -1,0 +1,135 @@
+.background-black{background:#000000;}/*Black*/
+.background-black-1{background:#494F55;}/*Abbey*/
+.background-black-2{background:#666362;}/*Ash gray*/
+.background-black-3{background:#0C0404;}/*Asphalt*/
+.background-black-4{background:#000000;}/*Black*/
+.background-black-5{background:#3D0C02;}/*Black bean*/
+.background-black-6{background:#413839;}/*Black cat*/
+.background-black-7{background:#4C4646;}/*Black cow*/
+.background-black-8{background:#463E3F;}/*Black eel*/
+.background-black-9{background:#3B3C36;}/*Black olive*/
+.background-black-10{background:#36454F;}/*Charcoal*/
+.background-black-11{background:#232B2B;}/*Charleston green*/
+.background-black-12{background:#1A2421;}/*Dark jungle green*/
+.background-black-13{background:#555555;}/*Davy's gray*/
+.background-black-14{background:#696969;}/*Dim gray*/
+.background-black-15{background:#555D50;}/*Ebony*/
+.background-black-16{background:#1B1B1B;}/*Eerie Black*/
+.background-black-17{background:#676767;}/*Granite*/
+.background-black-18{background:#808080;}/*Gray*/
+.background-black-19{background:#B6B6B4;}/*Gray Cloud*/
+.background-black-20{background:#504A4B;}/*Gray Wolf*/
+.background-black-21{background:#2C3539;}/*Gunmetal*/
+.background-black-22{background:#3D3C3A;}/*Iridium*/
+.background-black-23{background:#343434;}/*Jet*/
+.background-black-24{background:#1A1110;}/*Licorice*/
+.background-black-25{background:#2B1B17;}/*Midnight*/
+.background-black-26{background:#0C090A;}/*Night*/
+.background-black-27{background:#3B3131;}/*Oil*/
+.background-black-28{background:#43302E;}/*Old burgundy*/
+.background-black-29{background:#353839;}/*Onyx*/
+.background-black-30{background:#414A4C;}/*Outer space*/
+.background-black-31{background:#242124;}/*Raisin black*/
+.background-black-32{background:#100C08;}/*Smoky black*/
+.background-black-33{background:#483C32;}/*Taupe*/
+.background-black-34{background:#565051;}/*Vampire gray*/
+.background-black-35{background:#253529;}/*Black Leather Jacket*/
+.background-black-36{background:#362819;}/*Cafe Americano*/
+.background-black-37{background:#3A3A38;}/*Blackberry*/
+.background-black-38{background:#2E473B;}/*Lamp Black*/
+.background-black-39{background:#353F3E;}/*Army Uniform*/
+.background-black-40{background:#26282A;}/*Slate*/
+.background-black-41{background:#27251F;}/*Pitch Black*/
+.background-black-42{background:#040200;}/*Spider*/
+.background-black-43{background:#0E0C0A;}/*Metal*/
+.background-black-44{background:#080806;}/*Grease*/
+.background-black-45{background:#0D0907;}/*Crow*/
+.background-black-46{background:#010127;}/*Black Rock*/
+.background-black-47{background:#4D423E;}/*Basalt Black*/
+.background-black-48{background:#0B0B0B;}/*Neutral Black*/
+.background-black-49{background:#191C27;}/*Black Denim*/
+.background-black-50{background:#0F0404;}/*Vampire Black*/
+.background-black-51{background:#151922;}/*Cool Black*/
+.background-black-52{background:#3C4748;}/*Panda Black*/
+.background-black-53{background:#191C20;}/*Frost Black*/
+.background-black-54{background:#212122;}/*Ink Black (RAL)*/
+.background-black-55{background:#050301;}/*Raven*/
+.background-black-56{background:#0B0705;}/*Leather*/
+.background-black-57{background:#060606;}/*Sable*/
+.background-black-58{background:#0E0C01;}/*Power Black*/
+.background-black-59{background:#160D08;}/*Soot*/
+.background-black-60{background:#000302;}/*Jade*/
+.background-black-61{background:#0A0B0B;}/*True Black*/
+.background-black-62{background:#100E09;}/*Premium Black*/
+.background-black-63{background:#020403;}/*Obsidian*/
+.background-black-64{background:#2C2C2A;}/*Black Grain*/
+.background-black-65{background:#0B0510;}/*Black Magic*/
+.background-black-66{background:#343432;}/*Iron Black*/
+.background-black-67{background:#010B13;}/*Rich Black (FOGRA29)*/
+.background-black-68{background:#004242;}/*Warm Black*/
+.background-black-69{background:#54626F;}/*Black Coral*/
+.background-black-70{background:#BFAFB2;}/*Black Shadows*/
+.background-black-71{background:#451425;}/*Black Raspberry*/
+.background-black-72{background:#354230;}/*Kombu Green*/
+.background-black-73{background:#2C1608;}/*Zinnwaldite Brown*/
+.background-black-74{background:#2F4F4F;}/*Dark Slate Gray*/
+.background-black-75{background:#333333;}/*Dark Charcoal*/
+.background-black-76{background:#32174D;}/*Russian Violet*/
+.background-black-77{background:#3C341F;}/*Olive Drab #7*/
+.background-black-78{background:#3C1414;}/*Dark Sienna*/
+.background-black-79{background:#1A2228;}/*Alien Black*/
+.background-black-80{background:#1B1811;}/*Black Chocolate*/
+.background-black-81{background:#262B2F;}/*Blue Charcoal*/
+.background-black-82{background:#120321;}/*Gothic Grape*/
+.background-black-83{background:#1A1A1A;}/*Metropolis*/
+.background-black-84{background:#1C1C1C;}/*Night Shadow*/
+.background-black-85{background:#595652;}/*Off Black*/
+.background-black-86{background:#1A0F0F;}/*Dark Raisin*/
+.background-black-87{background:#161311;}/*Tea Bag*/
+.background-black-88{background:#292929;}/*Electric Black*/
+.background-black-89{background:#0D0E0E;}/*Tech Black*/
+.background-black-90{background:#161616;}/*Dull Black*/
+.background-black-91{background:#010203;}/*Dark Black*/
+.background-black-92{background:#07000B;}/*Natural Black*/
+.background-black-93{background:#1F201F;}/*Retro Black*/
+.background-black-94{background:#303D3A;}/*Black Green (RAL)*/
+.background-black-95{background:#050203;}/*Deep Black*/
+.background-black-96{background:#111212;}/*Refresh Black*/
+.background-black-97{background:#1B1A16;}/*Rustic Black*/
+.background-black-98{background:#674846;}/*Rose Ebony*/
+.background-black-99{background:#534B4F;}/*Liver*/
+.background-black-100{background:#50404D;}/*Purple Taupe*/
+.background-black-101{background:#0E161A;}/*Black Pearl*/
+.background-black-102{background:#24252B;}/*Black Russian*/
+.background-black-103{background:#1C1C1E;}/*Aesthetic Black*/
+.background-black-104{background:#2B2B2C;}/*Signal Black (RAL)*/
+.background-black-105{background:#4B3621;}/*Cafe Noir*/
+.background-black-106{background:#060D0D;}/*Luxury Black*/
+.background-black-107{background:#222024;}/*Bright Black*/
+.background-black-108{background:#1A1E28;}/*Black Blue (RAL)*/
+.background-black-109{background:#252324;}/*Glossy Black*/
+.background-black-110{background:#231F20;}/*Ivory Black*/
+.background-black-111{background:#1D1C1A;}/*Pastel Black*/
+.background-black-112{background:#060403;}/*Fashion Black*/
+.background-black-113{background:#27292B;}/*Graphite Black (RAL)*/
+.background-black-114{background:#303234;}/*Black Gray*/
+.background-black-115{background:#060605;}/*Black Hole*/
+.background-black-116{background:#171412;}/*Kokushoku*/
+.background-black-118{background:#351E1C;}/*Kurotobi*/
+.background-black-119{background:#010207;}/*Void*/
+.background-black-120{background:#080706;}/*Wet Suit*/
+.background-black-121{background:#222627;}/*Yacht Club Black*/
+.background-black-122{background:#232323;}/*Young Night*/
+.background-black-123{background:#2B2523;}/*Blackstrap Molasses*/
+.background-black-124{background:#0C0A00;}/*Carbon Black*/
+.background-black-125{background:#171717;}/*Cynical Black*/
+.background-black-126{background:#362B32;}/*Black Plum*/
+.background-black-127{background:#080808;}/*Reversed Gray*/
+.background-black-128{background:#0F0B0A;}/*Stout*/
+.background-black-129{background:#121213;}/*Tornado Cloud*/
+.background-black-130{background:#1B1813;}/*Walnut Hull*/
+.background-black-131{background:#2A2B2D;}/*Tap Shoe*/
+.background-black-132{background:#2B3230;}/*Woodsmoke*/
+.background-black-133{background:#3D2022;}/*Black Red*/
+.background-black-134{background:#1F2024;}/*Wind Cave*/
+.background-black-135{background:#050505;}/*Heavy Gray*/
