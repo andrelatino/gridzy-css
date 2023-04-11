@@ -130,7 +130,7 @@
 .sepia-10{--sepia:1;}
 
 .backdrop {
- filter: blur(var(--blur)) contrast(var(--contrast)) brightness(var(--brightness)) grayscale(var(--grayscale)) hue-rotate(var(--huerotate)) saturate(var(--saturate)) sepia(var(--sepia));
- -webkit-backdrop: blur(var(--blur)) contrast(var(--contrast)) brightness(var(--brightness)) grayscale(var(--grayscale)) hue-rotate(var(--huerotate)) saturate(var(--saturate)) sepia(var(--sepia));
- -moz-backdrop: blur(var(--blur)) contrast(var(--contrast)) brightness(var(--brightness)) grayscale(var(--grayscale)) hue-rotate(var(--huerotate)) saturate(var(--saturate)) sepia(var(--sepia));
+ backdrop-filter: blur(var(--blur)) contrast(var(--contrast)) brightness(var(--brightness)) grayscale(var(--grayscale)) hue-rotate(var(--huerotate)) saturate(var(--saturate)) sepia(var(--sepia));
+ -webkit-backdrop-filter: blur(var(--blur)) contrast(var(--contrast)) brightness(var(--brightness)) grayscale(var(--grayscale)) hue-rotate(var(--huerotate)) saturate(var(--saturate)) sepia(var(--sepia));
+ -moz-backdrop-filter: blur(var(--blur)) contrast(var(--contrast)) brightness(var(--brightness)) grayscale(var(--grayscale)) hue-rotate(var(--huerotate)) saturate(var(--saturate)) sepia(var(--sepia));
 }
